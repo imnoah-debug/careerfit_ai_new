@@ -1,10 +1,8 @@
 # CareerFit AI — 일차별 체크리스트
 
-
-
 ## 1일차
 
-- [ ] careerfitai/ 폴더 구조 생성 완료
+- [ ] careerfit_ai/ 폴더 구조 생성 완료
 
 - [ ] .gitignore에 .env 포함 확인
 
@@ -25,8 +23,6 @@
 - [ ] GitHub Repository 생성 및 초기 커밋 완료
 
 - [ ] 피어그룹 멤버 이름·GitHub URL 기록 완료
-
-
 
 ## 2일차
 
